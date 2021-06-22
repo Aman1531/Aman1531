@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Aman1531
+- 👋 Hi, I’m Aman Brar
 - 👀 I’m interested in backend development in nodejs,python
-- 🌱 I’m currently learning grasshopper
 - 💞️ I’m looking to collaborate on ecommerce,Machine learning , NLP
 - 📫 How to reach me aman1531@gmail.com
 
